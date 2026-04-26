@@ -20,7 +20,7 @@ const Login = () => {
     if (error) {
       toast.error(error);
     } else {
-      toast.success('Welcome back! 🎉');
+      toast.success('Welcome back!! 🎉');
       navigate('/');
     }
   };
