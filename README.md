@@ -1,6 +1,6 @@
 🚀 SMART HANGOUT FINDER
 
-📍 Presented by Team Techie's
+📍 Presented by TEAM TECHIE'S
 
 💡 Smart Hangout Finder is a web-based platform designed to help college students discover affordable hangout spots such as cafés, restaurants, malls, and other places based on their budget and preferences.
 
